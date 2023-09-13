@@ -1,6 +1,6 @@
 def main():
     print("Hello World")
 
-
-    if _name_ == '_main_':
+    #Changes for lab2
+if __name__ == '__main__':
        main()
